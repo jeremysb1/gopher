@@ -1,0 +1,2 @@
+# gopher
+Teaching myself Go
