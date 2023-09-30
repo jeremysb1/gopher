@@ -1,3 +1,3 @@
 # Gopher
 
-I am learning Go by building projects.
+I am teaching myself Go by building projects.
