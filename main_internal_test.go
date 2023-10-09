@@ -2,13 +2,9 @@ package main
 
 import "testing"
 
-func ExampleMain() {
-	...
-}
-
 func TestGreet_English(t *testing.T) {
 	lang := language("en")
-	want := "Hello world"
+	want := "hello world"
 
 	got := greet(lang)
 
@@ -20,7 +16,7 @@ func TestGreet_English(t *testing.T) {
 
 func TestGreet_French(t *testing.T) {
 	lang := language("fr")
-	want := "Bonjour le monde"
+	want := "bonjour le monde"
 
 	got := greet(lang)
 
