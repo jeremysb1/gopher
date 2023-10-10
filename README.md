@@ -1,5 +1,5 @@
 # Gopher
 
-I am building projects with Go.
+This repo contains projects built with Go.
 
-In addition to building projects, I am also testing my code as I go along.
+I am also testing my code as I go along.
